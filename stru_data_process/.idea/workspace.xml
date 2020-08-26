@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="417cfebd-4227-48dd-b86d-4da183e7c91f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fcMwPsf7ogy49lUbmLEQzKbRUS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pre_data/same/save_json" />
+      <recent name="$PROJECT_DIR$/pre_data/differ_label_data/save_json" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.read_nii">
+    <configuration name="diiff_patient_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diiff_patient_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_test_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_test_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_test_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_test_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_train_data" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_train_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_train_json" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_train_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_liu_test_mask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pre_data/same/save_json" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pre_data/same/save_json/pre_liu_test_mask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_wan1_test_mask" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pre_data/same/save_json" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pre_data/same/save_json/pre_wan1_test_mask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_wan2_test_mask" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pre_data/same/save_json" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pre_data/same/save_json/pre_wan2_test_mask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_yao_test_mask" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pre_data/same/save_json" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pre_data/same/save_json/pre_yao_test_mask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_lenjson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_lenjson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_nii" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stru_data_process" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@10.168.2.133:22/home/ubuntu/miniconda2/envs/Adam_mmlab2.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_nii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.diiff_patient_name" />
+        <item itemvalue="Python.read_lenjson" />
+        <item itemvalue="Python.get_test_json" />
+        <item itemvalue="Python.get_test_data" />
+        <item itemvalue="Python.pre_liu_test_mask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="417cfebd-4227-48dd-b86d-4da183e7c91f" name="Default Changelist" comment="" />
+      <created>1596513165825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596513165825</updated>
+      <workItem from="1596513169775" duration="4201000" />
+      <workItem from="1596679480696" duration="10201000" />
+      <workItem from="1596792903954" duration="26000" />
+      <workItem from="1596792949813" duration="4735000" />
+      <workItem from="1596863544272" duration="2553000" />
+      <workItem from="1597023109712" duration="331000" />
+      <workItem from="1597023443337" duration="36000" />
+      <workItem from="1597809822098" duration="1818000" />
+      <workItem from="1597839410774" duration="1181000" />
+      <workItem from="1597886047300" duration="1018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Deployment" timestamp="1596681764972">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1596681764972" />
+    <state x="320" y="115" key="#Options" timestamp="1596681794106">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Options/0.0.1440.900@0.0.1440.900" timestamp="1596681794106" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596682205274">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1596682205274" />
+    <state x="429" y="83" key="#comper_result" timestamp="1596682721099">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#comper_result/0.0.1440.900@0.0.1440.900" timestamp="1596682721099" />
+    <state x="429" y="83" key="#diiff_patient_name" timestamp="1597023214226">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#diiff_patient_name/0.0.1440.900@0.0.1440.900" timestamp="1597023214226" />
+    <state x="429" y="83" key="#get_test_data" timestamp="1596793209663">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#get_test_data/0.0.1440.900@0.0.1440.900" timestamp="1596793209663" />
+    <state x="429" y="83" key="#get_test_json" timestamp="1596793293357">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#get_test_json/0.0.1440.900@0.0.1440.900" timestamp="1596793293357" />
+    <state x="429" y="83" key="#get_train_data" timestamp="1596793373995">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#get_train_data/0.0.1440.900@0.0.1440.900" timestamp="1596793373995" />
+    <state x="429" y="83" key="#get_train_json" timestamp="1596864363530">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#get_train_json/0.0.1440.900@0.0.1440.900" timestamp="1596864363530" />
+    <state x="429" y="83" key="#pre_liu_test_mask" timestamp="1596693502919">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#pre_liu_test_mask/0.0.1440.900@0.0.1440.900" timestamp="1596693502919" />
+    <state x="429" y="83" key="#pre_wan1_test_mask" timestamp="1596693860875">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#pre_wan1_test_mask/0.0.1440.900@0.0.1440.900" timestamp="1596693860875" />
+    <state x="429" y="83" key="#pre_wan1_test_save" timestamp="1596515196526">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#pre_wan1_test_save/0.0.1440.900@0.0.1440.900" timestamp="1596515196526" />
+    <state x="429" y="83" key="#pre_wan2_test_mask" timestamp="1596694013996">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#pre_wan2_test_mask/0.0.1440.900@0.0.1440.900" timestamp="1596694013996" />
+    <state x="429" y="83" key="#pre_yao_test_mask" timestamp="1596694470706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#pre_yao_test_mask/0.0.1440.900@0.0.1440.900" timestamp="1596694470706" />
+    <state x="429" y="83" key="#read_lenjson" timestamp="1596794065735">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#read_lenjson/0.0.1440.900@0.0.1440.900" timestamp="1596794065735" />
+    <state x="429" y="83" key="#read_nii" timestamp="1597815705740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#read_nii/0.0.1440.900@0.0.1440.900" timestamp="1597815705740" />
+    <state x="429" y="83" key="#save_json_test_mask" timestamp="1596692813266">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#save_json_test_mask/0.0.1440.900@0.0.1440.900" timestamp="1596692813266" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1596515024885">
+      <screen x="0" y="23" width="1440" height="841" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.841@0.23.1440.841" timestamp="1596515024885" />
+    <state x="99" y="99" width="1240" height="700" key="DirDiffDialog" timestamp="1596681629289">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="99" y="99" width="1240" height="700" key="DirDiffDialog/0.23.1440.839@0.23.1440.839" timestamp="1596681629289" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1596899532498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596899532498" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1596809890945" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1596899532497">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596899532497" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1596809890943" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1596899532496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596899532496" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1596809890942" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1596899532497">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596899532497" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1596809890944" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1596899532500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596899532500" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1596899532499">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596899532499" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1596899532498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596899532498" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1596899532499">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596899532499" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1596682492888">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596682492888" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1597841816520">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1597841816520" />
+    <state x="386" y="85" width="667" height="729" key="find.popup" timestamp="1596513824561">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="386" y="85" width="667" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1596513824561" />
+    <state x="627" y="187" width="323" height="525" key="ftp.server.browser" timestamp="1596682470902">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="627" y="187" width="323" height="525" key="ftp.server.browser/0.0.1440.900@0.0.1440.900" timestamp="1596682470902" />
+    <state x="593" y="350" key="publish.login" timestamp="1597023181710">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="593" y="350" key="publish.login/0.0.1440.900@0.0.1440.900" timestamp="1597023181710" />
+    <state x="508" y="262" key="save.file.as.template.dialog" timestamp="1596681772942">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="262" key="save.file.as.template.dialog/0.0.1440.900@0.0.1440.900" timestamp="1596681772942" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stru_data_process$comper_result.coverage" NAME="compare_result Coverage Results" MODIFIED="1596685224263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stru_data_process$get_train_data.coverage" NAME="get_train_data Coverage Results" MODIFIED="1596872794931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stru_data_process$pre_wan2_test_mask.coverage" NAME="pre_wan2_test_mask Coverage Results" MODIFIED="1596694078463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_data/same/save_json" />
+    <SUITE FILE_PATH="coverage/stru_data_process$get_test_data.coverage" NAME="get_test_data Coverage Results" MODIFIED="1596872656315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stru_data_process$read_lenjson.coverage" NAME="read_lenjson Coverage Results" MODIFIED="1596873100778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stru_data_process$pre_liu_test_mask.coverage" NAME="pre_liu_test_mask Coverage Results" MODIFIED="1596693507982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_data/same/save_json" />
+    <SUITE FILE_PATH="coverage/stru_data_process$pre_wan1_test_save.coverage" NAME="pre_wan1_test_save Coverage Results" MODIFIED="1596529509407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_data/same/save_json" />
+    <SUITE FILE_PATH="coverage/stru_data_process$get_test_json.coverage" NAME="get_test_json Coverage Results" MODIFIED="1596872713209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stru_data_process$diiff_patient_name.coverage" NAME="diiff_patient_name Coverage Results" MODIFIED="1596872898312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stru_data_process$get_train_json.coverage" NAME="get_train_json Coverage Results" MODIFIED="1596872850120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stru_data_process$pre_wan1_test_mask.coverage" NAME="pre_wan1_test_mask Coverage Results" MODIFIED="1596693870547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_data/same/save_json" />
+    <SUITE FILE_PATH="coverage/stru_data_process$save_json_test_mask.coverage" NAME="save_json_test_mask Coverage Results" MODIFIED="1596692823130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_data/differ_label_data/save_json" />
+    <SUITE FILE_PATH="coverage/stru_data_process$pre_yao_test_mask.coverage" NAME="pre_yao_test_mask Coverage Results" MODIFIED="1596694804428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_data/same/save_json" />
+  </component>
+</project>
